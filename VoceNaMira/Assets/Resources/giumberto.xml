@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprites>
+	<sprite name="giumbertoDown">
+		<rect>2,2,400,600</rect>
+		<rect>404,2,400,600</rect>
+		<rect>806,2,400,600</rect>
+		<rect>1208,2,400,600</rect>
+		<rect>1610,2,400,600</rect>
+		<rect>2012,2,400,600</rect>
+		<rect>2414,2,400,600</rect>
+		<rect>2816,2,400,600</rect>
+		<rect name="stop">3218,2,400,600</rect>
+	</sprite>
+	<sprite name="giumbertoLeft">
+		<rect>2,2,400,600</rect>
+		<rect>404,2,400,600</rect>
+		<rect>806,2,400,600</rect>
+		<rect>1208,2,400,600</rect>
+		<rect>1610,2,400,600</rect>
+		<rect>2012,2,400,600</rect>
+		<rect>2414,2,400,600</rect>
+		<rect>2816,2,400,600</rect>
+	</sprite>
+	<sprite name="giumbertoRight">
+		<rect>2,2,400,600</rect>
+		<rect>404,2,399,600</rect>
+		<rect>805,2,399,600</rect>
+		<rect>1206,2,399,600</rect>
+		<rect>1607,2,399,600</rect>
+		<rect>2008,2,399,600</rect>
+		<rect>2409,2,399,600</rect>
+		<rect>2810,2,399,600</rect>
+		<rect name="stop">3211,2,400,600</rect>
+	</sprite>
+	<sprite name="giumbertoUp">
+		<rect>2,2,399,600</rect>
+		<rect>403,2,399,600</rect>
+		<rect>804,2,399,600</rect>
+		<rect>1205,2,399,600</rect>
+		<rect>1606,2,399,600</rect>
+		<rect>2007,2,399,600</rect>
+		<rect>2408,2,399,600</rect>
+		<rect>2809,2,399,600</rect>
+		<rect name="stop">3210,2,400,600</rect>
+	</sprite>
+</sprites>

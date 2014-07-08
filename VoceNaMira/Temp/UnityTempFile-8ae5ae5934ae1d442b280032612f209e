@@ -1,0 +1,157 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_4_5_0
+-define:UNITY_4_5
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/(Unity Pro) NavMesh Pathfinding/Agent.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/3D integration/App.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/3D integration/Arrow.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/Clipping/ClipSprites.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/DragTest/DragTest.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/DragTest/DragTestMain.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/Multi Resolution Art/MultiResolution.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/Persistance/PersistentSprite.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/RotateTowards/TestRotateTowards.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/TextSprites/OTTextChalc.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/TextSprites/OTTextImages.cs"
+"Assets/Plugins/Orthello/Examples/0 - Simple Examples/TextSprites/OTTextPortago.cs"
+"Assets/Plugins/Orthello/Examples/1 - Paralax scrolling FilledSprite/CExample1.cs"
+"Assets/Plugins/Orthello/Examples/2 - Moving collidable sprites/CBlock2.cs"
+"Assets/Plugins/Orthello/Examples/2 - Moving collidable sprites/CExample2.cs"
+"Assets/Plugins/Orthello/Examples/2 - Moving collidable sprites/CStar2.cs"
+"Assets/Plugins/Orthello/Examples/3 - Shooting Asteroids/CAsteroid3.cs"
+"Assets/Plugins/Orthello/Examples/3 - Shooting Asteroids/CBullet3.cs"
+"Assets/Plugins/Orthello/Examples/3 - Shooting Asteroids/CExample3.cs"
+"Assets/Plugins/Orthello/Examples/4 - Follow Target View/CExample4.cs"
+"Assets/Plugins/Orthello/Examples/4 - Follow Target View/CMover4.cs"
+"Assets/Plugins/Orthello/Examples/5 - Creating At Runtime/CExample5.cs"
+"Assets/Plugins/Orthello/Examples/6 - Physics/CExample6.cs"
+"Assets/Plugins/Orthello/Examples/7 - Tweening/CExample7.cs"
+"Assets/Plugins/Orthello/Examples/7 - Tweening/CStar7_1.cs"
+"Assets/Plugins/Orthello/Examples/7 - Tweening/CStar7_2.cs"
+"Assets/Plugins/Orthello/Examples/8 - Prefab-Support/test8.cs"
+"Assets/Plugins/Orthello/Standard Assets/Editor/OTAssetPostProcessor.cs"
+"Assets/Plugins/Orthello/Standard Assets/Editor/OTPrefabBreaker.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Animation/OTMovementController.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Data/OTDataReader.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Data/OTTextDataReader.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Data/OTXMLDataReader.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/OTView.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTAtlasData.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlas.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasBMFontXml.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasCocos2D.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasCocos2DFnt.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasImport.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasImportText.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasImportXML.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasOGRE.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasSparrow.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/Atlas/OTSpriteAtlasZwoptex.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimatingSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimatingSpritePassive.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimation.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTAnimationFrameset.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTCircleSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTClipSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTClippingAreaSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTContainer.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTFilledSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTGradientSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTGridSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTPolygonSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTScale9Sprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTSpriteSheet.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTTextSprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Graphics/Sprites/OTUnitySprite.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEase.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseBackIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseBackInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseBackOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseBounceIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseBounceInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseBounceOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseCircIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseCircInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseCircOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseCubicIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseCubicInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseCubicOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseElasticIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseElasticInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseElasticOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseExpoIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseExpoInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseExpoOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseLinear.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuadIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuadInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuadOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuartIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuartInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuartOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuintIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuintInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseQuintOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseSineIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseSineInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseSineOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseStrongIn.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseStrongInOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEaseStrongOut.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTEasing.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTTween.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/Tweening/OTTweenController.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OT.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTController.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTDevTrace.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTExtensions.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTHelper.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTMatRef.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTObject.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTObjectType.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTPB.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTSounds.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTTimeCycle.cs"
+"Assets/Plugins/Orthello/Standard Assets/OT/_Base/OTTouch.cs"
+Assets/Plugins/Pixelplacement/iTween/Sample/MoveSample.cs
+Assets/Plugins/Pixelplacement/iTween/Sample/RotateSample.cs
+Assets/Plugins/Pixelplacement/iTween/Sample/SampleInfo.cs
+Assets/Plugins/Pixelplacement/iTween/iTween.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
